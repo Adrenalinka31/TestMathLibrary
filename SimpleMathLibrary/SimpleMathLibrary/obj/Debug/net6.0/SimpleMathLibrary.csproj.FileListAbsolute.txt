@@ -1,0 +1,12 @@
+C:\Users\Администратор\source\repos\SimpleMathLibrary\SimpleMathLibrary\bin\Debug\net6.0\SimpleMathLibrary.deps.json
+C:\Users\Администратор\source\repos\SimpleMathLibrary\SimpleMathLibrary\bin\Debug\net6.0\SimpleMathLibrary.dll
+C:\Users\Администратор\source\repos\SimpleMathLibrary\SimpleMathLibrary\bin\Debug\net6.0\SimpleMathLibrary.pdb
+C:\Users\Администратор\source\repos\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\SimpleMathLibrary.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\SimpleMathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\SimpleMathLibrary.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\SimpleMathLibrary.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\SimpleMathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\SimpleMathLibrary.dll
+C:\Users\Администратор\source\repos\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\refint\SimpleMathLibrary.dll
+C:\Users\Администратор\source\repos\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\SimpleMathLibrary.pdb
+C:\Users\Администратор\source\repos\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\ref\SimpleMathLibrary.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Администратор\\source\\repos\\SimpleMathLibrary\\SimplyMathLibraryTest\\SimplyMathLibraryTest.csproj": {}
+    "D:\\GitHubTest\\TestMathLibrary\\SimpleMathLibrary\\SimplyMathLibraryTest\\SimplyMathLibraryTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Администратор\\source\\repos\\SimpleMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary.csproj": {
+    "D:\\GitHubTest\\TestMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Администратор\\source\\repos\\SimpleMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary.csproj",
+        "projectUniqueName": "D:\\GitHubTest\\TestMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary.csproj",
         "projectName": "SimpleMathLibrary",
-        "projectPath": "C:\\Users\\Администратор\\source\\repos\\SimpleMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary.csproj",
+        "projectPath": "D:\\GitHubTest\\TestMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary.csproj",
         "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Администратор\\source\\repos\\SimpleMathLibrary\\SimpleMathLibrary\\obj\\",
+        "outputPath": "D:\\GitHubTest\\TestMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Администратор\\source\\repos\\SimpleMathLibrary\\SimplyMathLibraryTest\\SimplyMathLibraryTest.csproj": {
+    "D:\\GitHubTest\\TestMathLibrary\\SimpleMathLibrary\\SimplyMathLibraryTest\\SimplyMathLibraryTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Администратор\\source\\repos\\SimpleMathLibrary\\SimplyMathLibraryTest\\SimplyMathLibraryTest.csproj",
+        "projectUniqueName": "D:\\GitHubTest\\TestMathLibrary\\SimpleMathLibrary\\SimplyMathLibraryTest\\SimplyMathLibraryTest.csproj",
         "projectName": "SimplyMathLibraryTest",
-        "projectPath": "C:\\Users\\Администратор\\source\\repos\\SimpleMathLibrary\\SimplyMathLibraryTest\\SimplyMathLibraryTest.csproj",
+        "projectPath": "D:\\GitHubTest\\TestMathLibrary\\SimpleMathLibrary\\SimplyMathLibraryTest\\SimplyMathLibraryTest.csproj",
         "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Администратор\\source\\repos\\SimpleMathLibrary\\SimplyMathLibraryTest\\obj\\",
+        "outputPath": "D:\\GitHubTest\\TestMathLibrary\\SimpleMathLibrary\\SimplyMathLibraryTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Администратор\\source\\repos\\SimpleMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary.csproj": {
-                "projectPath": "C:\\Users\\Администратор\\source\\repos\\SimpleMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary.csproj"
+              "D:\\GitHubTest\\TestMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary.csproj": {
+                "projectPath": "D:\\GitHubTest\\TestMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary.csproj"
               }
             }
           }

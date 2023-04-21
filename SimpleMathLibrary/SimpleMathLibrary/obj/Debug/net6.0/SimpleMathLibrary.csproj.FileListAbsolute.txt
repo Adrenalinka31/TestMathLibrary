@@ -10,3 +10,15 @@ C:\Users\Администратор\source\repos\SimpleMathLibrary\SimpleMathLib
 C:\Users\Администратор\source\repos\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\refint\SimpleMathLibrary.dll
 C:\Users\Администратор\source\repos\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\SimpleMathLibrary.pdb
 C:\Users\Администратор\source\repos\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\ref\SimpleMathLibrary.dll
+D:\GitHubTest\TestMathLibrary\SimpleMathLibrary\SimpleMathLibrary\bin\Debug\net6.0\SimpleMathLibrary.deps.json
+D:\GitHubTest\TestMathLibrary\SimpleMathLibrary\SimpleMathLibrary\bin\Debug\net6.0\SimpleMathLibrary.dll
+D:\GitHubTest\TestMathLibrary\SimpleMathLibrary\SimpleMathLibrary\bin\Debug\net6.0\SimpleMathLibrary.pdb
+D:\GitHubTest\TestMathLibrary\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\SimpleMathLibrary.csproj.AssemblyReference.cache
+D:\GitHubTest\TestMathLibrary\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\SimpleMathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubTest\TestMathLibrary\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\SimpleMathLibrary.AssemblyInfoInputs.cache
+D:\GitHubTest\TestMathLibrary\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\SimpleMathLibrary.AssemblyInfo.cs
+D:\GitHubTest\TestMathLibrary\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\SimpleMathLibrary.csproj.CoreCompileInputs.cache
+D:\GitHubTest\TestMathLibrary\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\SimpleMathLibrary.dll
+D:\GitHubTest\TestMathLibrary\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\refint\SimpleMathLibrary.dll
+D:\GitHubTest\TestMathLibrary\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\SimpleMathLibrary.pdb
+D:\GitHubTest\TestMathLibrary\SimpleMathLibrary\SimpleMathLibrary\obj\Debug\net6.0\ref\SimpleMathLibrary.dll

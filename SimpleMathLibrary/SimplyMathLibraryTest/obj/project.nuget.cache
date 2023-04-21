@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rucm89AekXZmWD9kEWMGZ51kM5D21r8EQ0g3/6BuUr+17pRKioAZ2NxDRyBvlqsYV4Aak26hjSdyCBt0wGGgRA==",
+  "dgSpecHash": "OuuSlgSzusddwbLyFY8rW0Iwz8zjpDvTXDzG9rAgi0etnX+jL3+SE0flIjkp07JACPglKPNjAIAuTsBREPsQkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Администратор\\source\\repos\\SimpleMathLibrary\\SimplyMathLibraryTest\\SimplyMathLibraryTest.csproj",
+  "projectFilePath": "D:\\GitHubTest\\TestMathLibrary\\SimpleMathLibrary\\SimplyMathLibraryTest\\SimplyMathLibraryTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Администратор\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

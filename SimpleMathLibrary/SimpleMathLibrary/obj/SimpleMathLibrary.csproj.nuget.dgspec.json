@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Администратор\\source\\repos\\SimpleMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary.csproj": {}
+    "D:\\GitHubTest\\TestMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Администратор\\source\\repos\\SimpleMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary.csproj": {
+    "D:\\GitHubTest\\TestMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Администратор\\source\\repos\\SimpleMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary.csproj",
+        "projectUniqueName": "D:\\GitHubTest\\TestMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary.csproj",
         "projectName": "SimpleMathLibrary",
-        "projectPath": "C:\\Users\\Администратор\\source\\repos\\SimpleMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary.csproj",
+        "projectPath": "D:\\GitHubTest\\TestMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary.csproj",
         "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Администратор\\source\\repos\\SimpleMathLibrary\\SimpleMathLibrary\\obj\\",
+        "outputPath": "D:\\GitHubTest\\TestMathLibrary\\SimpleMathLibrary\\SimpleMathLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
